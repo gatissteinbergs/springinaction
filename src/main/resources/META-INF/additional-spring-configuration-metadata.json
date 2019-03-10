@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "taco.orders.pagesize",
+      "type": "java.lang.String",
+      "description": "Description for taco.orders.pagesize."
+  }
+] }
